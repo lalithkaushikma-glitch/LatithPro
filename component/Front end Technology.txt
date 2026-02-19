@@ -1,0 +1,32 @@
+Front end Technology
+
+React freameWork-html , css, javascript
+
+Backend Technology:
+
+Node js,Express js,
+
+Database:
+
+Mongo DB and SQL.
+
+////////////////////////////////////////////////////////////////
+
+create react app-useing react-add the code to GIT Repo and login to Vercel to deploy and you will get the url past in browser.
+
+
+/////////////////////////////////////////////////////////////
+
+
+Andriod studio-fluter frame work. or use React Native to build.(andriod studio can use java and kotlin)
+
+
+//////////////////////////////////////////
+
+server side techno-java, python,
+
+if you need to build the python prject use dejango frame work.
+
+
+////////////////////////////////////////
+
